@@ -15242,8 +15242,9 @@ table.table-bordered.dataTable td:first-child:focus {
 	font-weight: 300;
 }
 .icon1 {
-	border-radius: 7px;
-	color: #fff;
+	background: #ecf2ff !important;
+	border-radius: 50% !important;
+	color: #1e5eff;
 	font-size: 24px;
 	height: 55px;
 	line-height: 57px;

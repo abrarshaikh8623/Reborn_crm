@@ -355,6 +355,10 @@
 <!-- Switcher js -->
 <script src="<?= base_url() ?>assets/switcher/js/switcher.js"></script>
 
+<!-- swal-alert -->
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+
 </body>
 
 </html>

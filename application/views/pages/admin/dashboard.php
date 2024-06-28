@@ -1,7 +1,7 @@
 <!--Page header-->
 <div class="page-header d-xl-flex d-block">
     <div class="page-leftheader">
-        <h4 class="page-title"><span class="font-weight-normal text-muted ml-2">Dashboard</span></h4>
+        <h4 class="page-title" style="color: #1e5eff;><span class="font-weight-normal  ml-2">Dashboard</span></h4>
     </div>
     <div class="page-rightheader ml-md-auto">
         <div class="d-flex align-items-end flex-wrap my-auto right-content breadcrumb-right">
@@ -57,7 +57,7 @@
                                 </div>
                             </div>
                             <div class="col-4">
-                                <div class="icon1 bg-success my-auto  float-right"> <i class="feather feather-dollar-sign"></i> </div>
+                                <div class="icon1  my-auto  float-right"> <i class="feather feather-dollar-sign"></i> </div>
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                                 </div>
                             </div>
                             <div class="col-4">
-                                <div class="icon1 bg-primary my-auto  float-right"> <i class="feather feather-shopping-cart"></i> </div>
+                                <div class="icon1  my-auto  float-right"> <i class="feather feather-shopping-cart"></i> </div>
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                                 </span>
                             </div>
                             <div class="col-4">
-                                <div class="icon1 bg-secondary brround my-auto  float-right"> <i class="feather feather-user"></i> </div>
+                                <div class="icon1  brround my-auto  float-right"> <i class="feather feather-user"></i> </div>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                                 </span>
                             </div>
                             <div class="col-4">
-                                <div class="icon1 bg-secondary brround my-auto  float-right"> <i class="feather feather-users"></i> </div>
+                                <div class="icon1  brround my-auto  float-right"> <i class="feather feather-users"></i> </div>
                             </div>
                         </div>
                     </div>
