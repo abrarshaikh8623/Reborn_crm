@@ -1,7 +1,7 @@
 <!--Page header-->
 <div class="page-header d-xl-flex d-block">
     <div class="page-leftheader">
-        <h4 class="page-title" style="color: #1e5eff;><span class="font-weight-normal  ml-2">Dashboard</span></h4>
+        <h4 class="page-title" style="color: #1e5eff;><span class=" font-weight-normal ml-2">Dashboard</span></h4>
     </div>
     <div class="page-rightheader ml-md-auto">
         <div class="d-flex align-items-end flex-wrap my-auto right-content breadcrumb-right">
@@ -52,7 +52,7 @@
                                     <h3 class="mb-0 mt-1 mb-2">6,578</h3>
                                     <span class="text-muted">
                                         <span class="text-success fs-12 mt-2 mr-1"><i class="feather feather-arrow-up-right mr-1 bg-success-transparent p-1 brround"></i>124</span>
-                                        
+
                                     </span>
                                 </div>
                             </div>
@@ -72,7 +72,7 @@
                                     <h3 class="mb-0 mt-1 mb-2">124</h3>
                                     <span class="text-muted">
                                         <span class="text-danger fs-12 mt-2 mr-1"><i class="feather feather-arrow-down-left mr-1 bg-danger-transparent p-1 brround"></i>13</span>
-                                        
+
                                     </span>
                                 </div>
                             </div>
@@ -93,7 +93,7 @@
                                 </div>
                                 <span class="text-muted">
                                     <span class="text-danger fs-12 mt-2 mr-1"><i class="feather feather-arrow-up-right mr-1 bg-danger-transparent p-1 brround"></i>21.1% </span>
-                                    
+
                                 </span>
                             </div>
                             <div class="col-4">
@@ -113,7 +113,7 @@
                                 </div>
                                 <span class="text-muted">
                                     <span class="text-danger fs-12 mt-2 mr-1"><i class="feather feather-arrow-up-right mr-1 bg-danger-transparent p-1 brround"></i>0.45% </span>
-                                    
+
                                 </span>
                             </div>
                             <div class="col-4">

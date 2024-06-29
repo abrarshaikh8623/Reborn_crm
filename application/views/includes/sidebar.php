@@ -3,7 +3,7 @@
     <div class="app-sidebar3">
         <ul class="side-menu">
             <li class="slide a">
-                <a class="side-menu__item active" href="#">
+                <a class="side-menu__item " href="<?= base_url() ?>">
                     <i class="feather feather-home sidemenu_icon"></i>
                     <span class="side-menu__label">Dashboard</span>
                 </a>
@@ -27,10 +27,15 @@
                 </a>
             </li>
             <li class="slide a">
-                <a class="side-menu__item" href="#">
+                <a class="side-menu__item" data-toggle="sub-slide" href="#">
                     <i class="feather feather-users sidemenu_icon"></i>
-                    <span class="side-menu__label">Customers</span>
+                    <span class="side-menu__label">Employees</span>
+                    <i class="sub-angle fa fa-angle-right"></i>
                 </a>
+                <ul class="sub-slide-menu">
+                    <li><a class="sub-slide-item" href="<?= base_url() ?>employee/list">Employees List</a></li>
+                    <li><a class="sub-slide-item" href="<?= base_url() ?>employee/add">Add Employee</a></li>
+                </ul>
             </li>
             <li class="slide a">
                 <a class="side-menu__item" href="#">
@@ -50,7 +55,7 @@
                     <span class="side-menu__label">Inbox</span>
                 </a>
             </li>
-           
+
         </ul>
         <!-- <div class="Annoucement_card">
             <div class="text-center">
