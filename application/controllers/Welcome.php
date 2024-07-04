@@ -2,7 +2,7 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 require_once 'application\controllers\CRM.php';
 
-class Welcome extends CRM
+class Welcome extends CI_Controller
 {
 
 	//1

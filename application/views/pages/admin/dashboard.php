@@ -89,7 +89,7 @@
                         <div class="row">
                             <div class="col-8">
                                 <div class="mt-0 text-left"> <span class="fs-14 font-weight-semibold">Active Session</span>
-                                    <h3 class="mb-0 mt-1  mb-2">$2,7853</h3>
+                                    <h3 class="mb-0 mt-1  mb-2">2,7853</h3>
                                 </div>
                                 <span class="text-muted">
                                     <span class="text-danger fs-12 mt-2 mr-1"><i class="feather feather-arrow-up-right mr-1 bg-danger-transparent p-1 brround"></i>21.1% </span>
@@ -109,7 +109,7 @@
                         <div class="row">
                             <div class="col-8">
                                 <div class="mt-0 text-left"> <span class="fs-14 font-weight-semibold">Total Session</span>
-                                    <h3 class="mb-0 mt-1  mb-2">$56</h3>
+                                    <h3 class="mb-0 mt-1  mb-2">56</h3>
                                 </div>
                                 <span class="text-muted">
                                     <span class="text-danger fs-12 mt-2 mr-1"><i class="feather feather-arrow-up-right mr-1 bg-danger-transparent p-1 brround"></i>0.45% </span>
